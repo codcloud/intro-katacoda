@@ -8,7 +8,7 @@ to take advantage of all the benefits OpenShift has to offer.
 ## Let's get started
 
 If you are not familiar with the OpenShift Container Platform, it is probably best if you go do the 
-[https://learn.openshift.com/introduction/getting-started/](Getting Started) with OpenShift scenario. 
+[Getting Started](https://learn.openshift.com/introduction/getting-started/) with OpenShift scenario. 
 
 You do not need to install anything on your local machine for this scenario. We are going to simply:
  1. Build some code from a Github repository into a container

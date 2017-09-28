@@ -18,11 +18,11 @@
     },
     "details": {
         "steps": [{
-            "title": "Step 1 - Exploring The Command Line",
-            "text": "1explore-cli.md"
+            "title": "Step 1 - Forking and Building Code",
+            "text": "1build-code.md"
         }, {
-            "title": "Step 2 - Exploring The Web Console",
-            "text": "2explore-console.md"
+            "title": "Step 2 - Creating a Route to the Application",
+            "text": "2application-route.md"
         }, {
             "title": "Step 3 - Deploying a Docker Image",
             "text": "3deploy-docker.md"
