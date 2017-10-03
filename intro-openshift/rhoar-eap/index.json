@@ -6,7 +6,7 @@
     "difficulty": "beginner",
     "time": "20-30 minutes",
     "backend": {
-        "imageid": "openshift",
+        "imageid": "openshift-middleware",
         "port": 8443
     },
     "environment": {
@@ -24,17 +24,11 @@
             "title": "Step 2 - Creating a Route to the Application",
             "text": "2application-route.md"
         }, {
-            "title": "Step 3 - Deploying a Docker Image",
-            "text": "3deploy-docker.md"
-        }, {
+            "title": "Step 3 -Modifying and Rebuilding",
+            "text": "3modify.md"
+        },{
             "title": "Step 4 - Scaling Your Application",
             "text": "4scaling.md"
-        }, {
-            "title": "Step 5 - Routing HTTP Requests",
-            "text": "5routes.md"
-        }, {
-            "title": "Step 6 - Building From Source Code",
-            "text": "6s2i.md"
         }],
         "intro": {
             "courseData": "env-init.sh",

@@ -5,9 +5,12 @@ Let's start right off with running some code inside of JBoss EAP. We are going t
 
 ## Forking the Github repository
 
-Make sure you are logged into [Github](https://github.com). Then proceed to the [following repository](). It has a simple [JAX-RS](https://en.wikipedia.org/wiki/Java_API_for_RESTful_Web_Services) service that generates a Dungeon & Dragons character when you hit the endpoint. 
+Make sure you are logged into [Github](https://github.com). Then proceed to the [following repository](https://github.com/openshift-katacoda/dd-jaxrs). 
+It has a simple [JAX-RS](https://en.wikipedia.org/wiki/Java_API_for_RESTful_Web_Services) service that generates a Dungeon & Dragons 
+character when you hit the endpoint. 
 
-On the top of the Github page you will see a button called "Fork". Please go ahead and select this button and place the git fork in one of your Github organizations. 
+On the top right of the Github page you will see a button called "Fork". Please go ahead and select this button and place the 
+git fork in one of your Github organizations. 
 
 ?????? Image here
 

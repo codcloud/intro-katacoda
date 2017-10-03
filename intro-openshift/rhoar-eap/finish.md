@@ -1,8 +1,10 @@
-Congratulations!  You just finished learning the basics of how to get started with the OpenShift Container Platform.  Feels good doesn't it?
+Congratulations!  You just built and deployed your Java Application to OpenShift (which is Kubernetes).  Feels good doesn't it?
 
 ## What's next?
 
-At this point you are probably itching to keep working with OpenShift as you have had a glimpse of the power this can bring to your own applications.  We are currently working on more advanced tutorials that will be hosted here but in the meantime, you can certainly run your own version of OpenShift or use a hosted model.  You are welcome to use one of the following options:
+At this point you are probably itching to keep working with OpenShift as you have had a glimpse of the power this can bring to your own applications. 
+ We are currently working on more advanced tutorials that will be hosted here but in the meantime, you can certainly run your own version of OpenShift or use a hosted model.  
+You are welcome to use one of the following options:
 
 ### Minishift
 
@@ -23,3 +25,6 @@ The OpenShift team provides a hosted environment which includes a free starter p
 
 You can also let Red Hat host an OpenShift instance for you on a public cloud.  This is an ideal scenario for larger teams that doesn't want to deal with the operational aspects or running a full environment.  To find out more, visit https://www.openshift.com/dedicated/
 
+## Stay tuned
+Please check in to learn.openshift.com in the future as we will be bringing more scenarios showing how easy Java development (from code to messaging to integration) 
+can be on OpenShift!
