@@ -21,8 +21,8 @@
             "title": "Step 1 - Forking and Building Code",
             "text": "1build-code.md"
         }, {
-            "title": "Step 2 - Creating a Route to the Application",
-            "text": "2application-route.md"
+            "title": "Step 2 - Same Steps Using the CLI",
+            "text": "2using-cli.md"
         }, {
             "title": "Step 3 -Modifying and Rebuilding",
             "text": "3modify.md"
