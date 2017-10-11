@@ -1,6 +1,6 @@
 {
     "icon": "fa-openshift",
-    "title": "Getting Started with OpenShift for Developers",
+    "title": "Introduction to JBoss EAP on OpenShift",
     "description": "",
     "pathwayTitle": "OpenShift",
     "difficulty": "beginner",
@@ -37,9 +37,6 @@
         },
         "finish": {
             "text": "finish.md"
-        },
-        "assets": {
-          "host01": [{"file": "route.json", "target": "/root/"}]
         }
     }
 }
