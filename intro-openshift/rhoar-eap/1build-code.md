@@ -38,6 +38,12 @@ Please login:
 
 **Password:** ``developer``{{copy}}
 
+There will be a blue button in the middle of the screen that says "Create Project", go ahead and click it and name your project
+_javaftw_ and then click "Create". You are now looking at the OpenShift Catalog. Go ahead and select the Java button:
+
+![Java Catalog](../../assets/intro-openshift/rhoar-eap/1-java_catalog.png)
+
+
 
 ## Looking at the build logs
 
