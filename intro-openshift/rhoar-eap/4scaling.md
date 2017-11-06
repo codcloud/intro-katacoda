@@ -43,3 +43,5 @@ fill it's place.
 
 Before we continue, go ahead and scale your application down to a single
 instance. It's as simple as clicking the down arrow on the _Overview_ page.
+
+For the final exercise let's go through  and create the same application except using the CLI. 
