@@ -18,7 +18,7 @@ You should now see a page for creating your first project in web console. Fill i
 
 ![Create Project](../../assets/intro-openshift/getting-started/2create-project.png)
 
-The rest is optional and up to you. Be careful with all of that responsibility.
+The rest is optional and up to you. Be careful with all of that responsibility :).
 
 After your project is created, you'll be taken to a screen where you can begin adding content to your project.
 
